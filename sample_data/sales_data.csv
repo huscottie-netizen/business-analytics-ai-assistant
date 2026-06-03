@@ -1,0 +1,13 @@
+date,region,category,sales,coupon_used
+2026-01-01,Tokyo,Food,12000,300
+2026-01-01,Osaka,Food,9000,180
+2026-01-01,Nagoya,Food,7000,120
+2026-02-01,Tokyo,Food,14000,350
+2026-02-01,Osaka,Food,8500,150
+2026-02-01,Nagoya,Food,7200,130
+2026-03-01,Tokyo,Electronics,18000,400
+2026-03-01,Osaka,Electronics,9500,170
+2026-03-01,Nagoya,Electronics,8000,160
+2026-04-01,Tokyo,Electronics,19000,420
+2026-04-01,Osaka,Electronics,8200,120
+2026-04-01,Nagoya,Electronics,8300,170
