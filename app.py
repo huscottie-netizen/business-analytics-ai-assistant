@@ -66,7 +66,7 @@ if uploaded_file:
             llm_response = ask_llm(question, context)
 
         st.subheader("AI Analysis")
-        st.write(llm_response)
+        st.markdown(llm_response)
 
         report = generate_report(kpis, llm_response)
 
